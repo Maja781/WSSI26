@@ -1,5 +1,6 @@
-# MOJA ODPOWIEDZ NA ZADANIE 1
+# ODPOWIEDZ NA ZADANIE 1
 
+## MOJA ODPOWIEDZ
 Uwazam, ze z wymienionych zadan inteligencja czlowieka jest potrzebna do: 
 wypełnianie deklaracji PIT, aby sprawdzic czy wszystko zostalo wykonane prawidlowo i chatbot nie popelnil "gafy",
 do komponowania muzyki, aby poierowac AI do dodania melodii lub tekstu, ktory zaciekawi dzisiejszych sluchaczy
