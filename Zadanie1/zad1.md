@@ -1,4 +1,4 @@
-#ODPOWIEDZ NA ZADANIE 1
+# MOJA ODPOWIEDZ NA ZADANIE 1
 
 Uwazam, ze z wymienionych zadan inteligencja czlowieka jest potrzebna do: 
 wypełnianie deklaracji PIT, aby sprawdzic czy wszystko zostalo wykonane prawidlowo i chatbot nie popelnil "gafy",
