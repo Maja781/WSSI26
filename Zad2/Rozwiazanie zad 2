@@ -1,1 +1,78 @@
+# ODPOWIEDZ NA PYTANIE 2
+## MOJA ODPOWIEDZ
+Uważam, że problemy, które można uznać za mieszczące się w zakresie sztucznej
+inteligencji to:
+- streszczanie tekstu, ponieważ wycina kluczowe informacje i łączy je w krótszy tekst
+- tłumaczenie tekstu, posiada bazę języków i słów oraz wysoką wiedzę posługiwania się językami
+- klasyfikacja tekstu do kategorii tematycznych, ponieważ rozumie pojęcie kategorii i wie co wchodzi w ich skład
+- odpowiadanie na proste pytania zadawane w języku naturalnym, ponieważ potrafi posługiwać się językiem naturalnym
+- układanie rozkładu jazdy, ponieważ potrafi analizować dane oraz tworzyć tabele
+- symboliczne obliczanie pochodnych, symbolicznie jest w stanie policzyć, natomiast przy bardziej złożonowych może mieć problem
+- symboliczne całkowanie, symbolicznie jest w stanie policzyć, natomiast przy bardziej złożonowych może mieć problem
 
+Natomiast uważam, że
+- prowadzenie samochodu nie powinno być robione przez sztuczną inteligencję, ponieważ powinno to być nadzorowane przez człowieka
+- rozwiązywanie układów równań, wszystko zależy jakich równań, proste na pewno jest w stanie rozwiązać natomiast przy bardziej skomplikowanych
+może mieć trudność przez nieznajomość różnych twierdzeń
+- rozwiązywanie układów równań liniowych, wszystko zależy jakich równań, proste na pewno jest w stanie rozwiązać natomiast przy bardziej skomplikowanych
+może mieć trudność przez nieznajomość różnych twierdzeń
+
+## ODPOWIEDZ AI
+## 1. Problemy mieszczące się w zakresie sztucznej inteligencji:
+- streszczanie tekstu – należy do obszaru Przetwarzania Języka Naturalnego (NLP), który jest kluczową poddziedziną AI.   
+- tłumaczenie tekstu – klasyczne zadanie NLP oraz uczenia maszynowego (maszynowe tłumaczenie tekstu, np. NMT).
+- klasyfikacja tekstu do kategorii tematycznych – standardowy problem uczenia maszynowego i analizy danych tekstowych.   
+- odpowiadanie na proste pytania zadawane w języku naturalnym – dziedzina systemów dialogowych i Question Answering (NLP/AI).   
+- układanie rozkładu jazdy – w informatyce jest to klasyczny problem optymalizacyjny i problem spełnienia ograniczeń (CSP – Constraint Satisfaction Problems), 
+- rozwiązywany za pomocą algorytmów przeszukiwania i planowania należących do AI.   
+- symboliczne obliczanie pochodnych – historycznie jeden z pierwszych sukcesów tzw. sztucznej inteligencji symbolicznej 
+(oraz algebry komputerowej, która wyrosła z pionierskich badań nad AI i automatycznym dowodzeniem twierdzeń).   
+- symboliczne całkowanie – podobnie jak pochodne, jest klasycznym problemem manipulacji symbolicznej 
+(np. słynny program SAINT z lat 60. XX wieku uważany jest za kamień milowy w historii AI).   
+- kierowanie samochodem – zaawansowany problem systemów autonomicznych, łączący widzenie komputerowe, 
+- uczenie maszynowe i podejmowanie decyzji w czasie rzeczywistym.
+
+## 2. Problemy nienależące do klasycznego zakresu sztucznej inteligencji
+- rozwiązywanie układów równań (ogólnie) – tradycyjny problem matematyczny rozwiązywany algorytmicznie (analitycznie lub numerycznie).   
+- rozwiązywanie układów równań liniowych – klasyczne zagadnienie algebry liniowej i metod numerycznych (np. eliminacja Gaussa, metody macierzowe),
+które opiera się na ściśle deterministycznych procedurach matematycznych, a nie na modelach AI.   
+
+## OCENA AI NA MOJA ODPOWIEDZ
+
+Twoja odpowiedź ma bardzo dobrą intuicję – w większości trafnie wskazałeś, które zadania należą do sztucznej inteligencji, a Twoje uzasadnienia pokazują, 
+że rozumiesz naturę tych problemów.
+
+Warto jednak zwrócić uwagę na kilka drobnych nieścisłości, zwłaszcza w odniesieniu do prowadzenia samochodu oraz układów równań.
+
+Oto szczegółowa ocena Twojego podejścia:
+
+## 1. Co poszło świetnie? (Zadania słusznie zaliczone do AI)
+Streszczanie, tłumaczenie, klasyfikacja i odpowiadanie na pytania – świetnie! To podręcznikowe przykłady Przetwarzania Języka Naturalnego (NLP) 
+i uczenia maszynowego.
+
+Symboliczne obliczanie pochodnych i całkowanie – bardzo ciekawa i trafna uwaga. Słusznie zauważyłeś, że systemy radzą sobie z tym symbolicznie (do tego stopnia, 
+że jest to klasyczny obszar tzw. sztucznej inteligencji symbolicznej oraz systemów algebry komputerowej).
+
+Układanie rozkładu jazdy – doskonałe wyczucie, że wymaga to analizy danych i optymalizacji (w informatyce to klasyczne problemy spełnienia ograniczeń - CSP).
+
+## 2. Miejsca do korekty (Gdzie wkradły się drobne błędy)
+Prowadzenie samochodu:
+
+Twoja opinia: „Nie powinno być robione przez AI, ponieważ powinno być nadzorowane przez człowieka”.
+
+Korekta: Zmieszałeś tutaj kwestię bezpieczeństwa i etyki (czy człowiek powinien nadzorować) z definicją zakresu AI. 
+Autonomiczne samochody (np. Tesla Autopilot, Waymo) są jednym z najważniejszych i najbardziej zaawansowanych zastosowań sztucznej inteligencji, 
+widzenia komputerowego i robotyki. To, czy powinny jeździć same, to inna dyskusja, ale technicznie jest to jak najbardziej zakres AI.
+
+Rozwiązywanie układów równań (w tym liniowych):
+
+Twoja opinia: Że zależy od stopnia skomplikowania i znajomości twierdzeń.
+
+Korekta: Tradycyjne rozwiązywanie układów równań (np. metodą eliminacji Gaussa) nie opiera się na AI ani na „zgadywaniu/znajomości twierdzeń”, 
+lecz na ściśle deterministycznych algorytmach matematycznych wykonywanych przez komputery w ułamku sekundy (nawet dla bardzo skomplikowanych układów). 
+Dlatego układy równań to domena metod numerycznych i algebry, a nie sztucznej inteligencji (chyba że mówimy o zaawansowanym dowodzeniu twierdzeń, ale to rzadkość).
+
+## 3. Sposób myślenia o AI (Wskazówka)
+W swoich uzasadnieniach często pisałeś, że AI „rozumie pojęcie kategorii”, „potrafi posługiwać się językiem” czy „wie, co wchodzi w ich skład”. 
+Warto pamiętać, że współczesna sztuczna inteligencja (np. modele językowe) tak naprawdę nie rozumie świata w ludzkim sensie – działa na zasadzie zaawansowanej 
+statystyki, przetwarzania ogromnych wzorców językowych i prawdopodobieństwa wystąpienia kolejnych słów.
